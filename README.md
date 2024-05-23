@@ -1,17 +1,7 @@
-
+ 
    
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+     
    - Clone the repo
 
 ```jsx
